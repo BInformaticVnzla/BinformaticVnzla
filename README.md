@@ -12,11 +12,7 @@
 
 <form role="form" method="post" enctype="multipart/form-data">
 
-                    <!--=====================================
-                    CABEZA DEL MODAL
-                    ======================================-->
-
-
+               
 <div class="modal-header" style="background:#3c8dbc; color:white">
 
 <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -25,14 +21,11 @@
 
 </div>
 
-                    <!--=====================================
-                    CUERPO DEL MODAL
-                    ======================================-->
+                   
 
 <div class="modal-body">
                         <div class="box-body">
 
-                            <!-- ENTRADA PARA EL NOMBRE -->
 
 <div class="form-group">
 
@@ -47,7 +40,6 @@
 
 </div>
 
-                            <!-- ENTRADA PARA EL USUARIO -->
 
 <div class="form-group">
 
@@ -63,7 +55,6 @@
 </div>
 
 
-                            <!-- ENTRADA PARA LA CONTRASEÑA -->
 
 <div class="form-group">
 
@@ -78,7 +69,6 @@
 
 </div>
 
-                            <!-- ENTRADA PARA SELECCIONAR SU PERFIL -->
 
 <div class="form-group">
 <div class="input-group">
@@ -107,10 +97,6 @@
 </div>
 
 </div>
-
-                    <!--=====================================
-                    PIE DEL MODAL
-                    ======================================-->
 
 <div class="modal-footer">
 
