@@ -31,12 +31,12 @@
 <br>
 
 
-<!--- Habilidades --->
+Habilidades
 <div>
   <table align="center">
-    <tr>
+  <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+          <p><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif"> Habilidades</p>
         </td>
         <td>
           <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
@@ -46,6 +46,7 @@
         </td>
     </tr>
 </table>
+</div>
 <!-- Sistema Operativo -->
 
 <!--- Lenguajes --->
