@@ -5,16 +5,11 @@
 </h3>
 
 <p> 
-- Un desarrollador autodidacta
-  <br>
-- Soy un entusiasta de la ciencia de datos y la inteligencia artificial
-    <br>
-- Actualmente me estoy centrando en Resolución de problemas
-  <br>
+  - Un desarrollador autodidacta
+  - Soy un entusiasta de la ciencia de datos y la inteligencia artificial
+  - Actualmente me estoy centrando en Resolución de problemas
   - Actualmente estoy abierto a una nueva oportunidad laboral
-  <br>
   - Capacitado para trabajos de Diseño Grafico
-    <br>
 
 </p>
 
