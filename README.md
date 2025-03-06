@@ -3,15 +3,22 @@
 <h3 align="left"> 
   Acerca De Mi:
 </h3>
-
 <p> 
-
 - Un desarrollador autodidacta
 - Soy un entusiasta de la ciencia de datos y la inteligencia artificial
 - Actualmente me estoy centrando en Resolución de problemas
 - Actualmente estoy abierto a una nueva oportunidad laboral
 - Capacitado para trabajos de Diseño Grafico
-
+</p>
+<h3 align="left"> 
+  Acerca De Mi:
+</h3>
+<p> 
+- Un desarrollador autodidacta
+- Soy un entusiasta de la ciencia de datos y la inteligencia artificial
+- Actualmente me estoy centrando en Resolución de problemas
+- Actualmente estoy abierto a una nueva oportunidad laboral
+- Capacitado para trabajos de Diseño Grafico
 </p>
 
 
