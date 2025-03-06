@@ -32,8 +32,8 @@
 
 
 
-<div>
-  Habilidades
+<div align="center">
+  <h3>Habilidades</h3>
   <table align="center">
   <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
