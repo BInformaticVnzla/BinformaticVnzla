@@ -4,6 +4,7 @@
   Acerca De Mi:
 </h3>
 <p> 
+  <br>
 - Un desarrollador autodidacta
 - Soy un entusiasta de la ciencia de datos y la inteligencia artificial
 - Actualmente me estoy centrando en Resolución de problemas
@@ -14,7 +15,7 @@
 <h3 align="left"> 
   Acerca De Mi:
 </h3>
-
+<br>
 <p> 
 - Un desarrollador autodidacta
 - Soy un entusiasta de la ciencia de datos y la inteligencia artificial
