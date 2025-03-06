@@ -30,21 +30,6 @@
 </p>
 <br>
 
-
-
-<div align="center">
-  <h3>Habilidades</h3>
-  <table align="center">
-  <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
-        </td>
-        <td>
-          <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-        </td>
-    </tr>
-</table>
-</div>
 <!-- Sistema Operativo -->
 <div align="center">
   <h3>Sistemas Operativos</h3>
