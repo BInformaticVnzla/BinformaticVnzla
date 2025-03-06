@@ -14,6 +14,8 @@
   - Actualmente estoy abierto a una nueva oportunidad laboral
   <br>
   - Capacitado para trabajos de Diseño Grafico
+    <br>
+
 </p>
 
 
