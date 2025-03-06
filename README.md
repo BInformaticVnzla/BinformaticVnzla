@@ -6,7 +6,6 @@
 </h3>
 
 <p align="left"> 
-  <br>
 
 - Un desarrollador autodidacta
 - Soy un entusiasta de la ciencia de datos y la inteligencia artificial
@@ -14,7 +13,6 @@
 - Actualmente estoy abierto a una nueva oportunidad laboral
 - Capacitado para trabajos de Diseño Grafico
 
-<br>
 </p>
 
 <!--- Contacto--->
