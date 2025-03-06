@@ -33,8 +33,8 @@
 </div>
 
 ###
-
-<p align="left">Acerca de mi: <br><br>- Un apasionado desarrollador autodidacta<br>- Actualmente estoy abierto para nuevas oportunidades laborales<br>- Un entusiasta de la Inteligencia Artificiar<br>- me enfoco en la solucion de Problemas</p>
+<h3 align="left">Acerca de mi:</h3><br>
+<p align="left"><br>- Un apasionado desarrollador autodidacta<br>- Actualmente estoy abierto para nuevas oportunidades laborales<br>- Un entusiasta de la Inteligencia Artificiar<br>- me enfoco en la solucion de Problemas</p>
 
 ###
 
