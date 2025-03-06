@@ -33,7 +33,7 @@
 </div>
 
 ###
-<h3 align="left">Acerca de mi:</h3><br>
+<h3 align="left">Acerca de mi:</h3>
 <p align="left"><br>- Un apasionado desarrollador autodidacta<br>- Actualmente estoy abierto para nuevas oportunidades laborales<br>- Un entusiasta de la Inteligencia Artificiar<br>- me enfoco en la solucion de Problemas</p>
 
 ###
