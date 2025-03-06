@@ -2,6 +2,7 @@
 <h3 align="left"> 
   Acerca De Mi:
 </h3>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p> 
 
@@ -12,7 +13,6 @@
 - Capacitado para trabajos de Diseño Grafico
 
 </p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 <!--- Contacto--->
