@@ -49,18 +49,106 @@
 </table>
 </div>
 <!-- Sistema Operativo -->
-
+<div align="center">
+  <h3>Sistemas Operativos</h3>
+  <table align="center">
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+        </td>
+    </tr>
+</table>
+</div>
 <!--- Lenguajes --->
-
+<div align="center">
+  <h3>Lenguajes</h3>
+  <table align="center">
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+        </td>
+    </tr>
+</table>
+</div>
 <!-- Front End ---> 
+<div align="center">
+  <h3>Front End</h3>
+  <table align="center">
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+              <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
 
+   </td>
+    </tr>
+</table>
+</div>
 <!-- Base de Datos --->
-
+<div align="center">
+  <h3>Base de Datos</h3>
+  <table align="center">
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+        </td>
+    </tr>
+</table>
+</div>
 <!--- flameword ---> 
-
+<div align="center">
+  <h3>Flameword</h3>
+  <table align="center">
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+        </td>
+    </tr>
+</table>
+</div>
 <!--- Herramientas --> 
 
-
+<div align="center">
+  <h3>Herramientas</h3>
+  <table align="center">
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+        </td>
+    </tr>
+</table>
+</div>
 <!---- Diseño ----> 
 
 
