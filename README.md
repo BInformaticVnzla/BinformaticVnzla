@@ -76,10 +76,6 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
-###
 
-<h3 align="center">🔥   Mi Etatus</h3>
-
-###
 
 
